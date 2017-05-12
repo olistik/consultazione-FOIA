@@ -16,7 +16,7 @@ I commenti raccolti sono visualizzabili accedendo nelle **sezioni** sottostanti.
 
 È possibile, inoltre, inviare commenti alla bozza sotto forma di **documenti scritti** all’indirizzo mail [ogp@governo.it](mailto:ogp@governo.it).
 
-1. Premessa
+1. [Premessa](https://github.com/olistik/consultazione-FOIA/blob/master/sezioni/1-premessa.md)
 2. Indicazioni preliminari
     - Definizioni
     - Criteri applicativi di carattere generale
